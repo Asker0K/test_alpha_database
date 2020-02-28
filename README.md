@@ -39,4 +39,4 @@ Code | Model | Speed | Ram | Hd | Cd | Price
 
 Результаты выполнения заданий:
 
-![alt text] https://i.imgur.com/NBOsBW4.png
+![alt text](https://i.imgur.com/NBOsBW4.png)
